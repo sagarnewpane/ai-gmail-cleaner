@@ -2,4 +2,6 @@ emails.db
 token.json
 credentials.json
 .env
+env
+unsubscribe_list.csv
 __pycache__/
