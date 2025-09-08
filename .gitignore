@@ -1,0 +1,5 @@
+emails.db
+token.json
+credentials.json
+.env
+__pycache__/
